@@ -1,0 +1,13 @@
+The events scenarios I chose to implement are: 1. Capture the common http 
+status codes and write a message to console. amd 2. Every time a file was successfully
+read, write a message to console
+
+1.this project took me about 12 hours to complete.
+
+2. I used help from youtube and chatgpt.
+
+3.I asked help from my tutor Scott.
+
+4. I did not ask help from my instructors.
+
+5.Task 1 ans 2 were both fairly easy, 3/10, task 3 was much more diffuclt 8/10.
